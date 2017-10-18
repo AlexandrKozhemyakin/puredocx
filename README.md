@@ -107,7 +107,7 @@ About JetRuby
 ![jetruby](http://jetruby.com/expertise/wp-content/themes/jetruby-wordpress-template/img/sprite2x.png)
 
 
-puredocx is maintained and funded by JetRuby Agency, inc.
+puredocx is maintained and founded by JetRuby Agency, inc.
 
 We love open source software!
 See [our projects][portfolio] or
